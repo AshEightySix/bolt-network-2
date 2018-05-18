@@ -1,2 +1,2 @@
 # bolt-network-2
-Website | HTML CSS Bootstrap AngularJs
+Website Application | HTML CSS Bootstrap AngularJs
